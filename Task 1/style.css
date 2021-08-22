@@ -69,8 +69,8 @@ img{
     height: 100%;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
     width: 757px;
+    justify-content: space-between;
 }
 .block6{
     width:100%;
@@ -104,6 +104,12 @@ img{
 
 }
 .block8{
+    background-color: rgb(214, 214, 214);
+    width: 370px;
+    height: 200px;
+    display: flex;
+}
+.block9{
     background-color: rgb(214, 214, 214);
     width: 370px;
     height: 200px;
