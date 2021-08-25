@@ -22,6 +22,9 @@ hr{
 img{
     width:122px;height: 108px; 
 }
+.block1{
+    width:122px;height: 108px; 
+}
 .block2{
     background-color: gray;
     width:268px;height:108px;
@@ -114,4 +117,36 @@ img{
     width: 370px;
     height: 200px;
     display: flex;
+}
+.b10_11{
+    display:flex;
+    justify-content:space-between;
+    width: 620px;
+}
+.block10{
+    background-color: rgb(87, 87, 87);
+    width: 295px;
+    height: 180px;
+}
+.block11{
+    background-color: rgb(87, 87, 87);
+    width: 295px;
+    height: 180px;
+}
+.b12_13{
+    flex-direction: column;
+    
+}
+.b12{
+    background-color: rgb(87, 87, 87);
+    width: 305px;
+    height: 75px;
+}
+.blocks_below{
+    display: flex;
+    justify-content: space-between;
+}
+.b13{
+    width: 184px;
+    height: 134px;
 }
