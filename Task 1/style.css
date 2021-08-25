@@ -38,7 +38,8 @@ img{
     font-size: 14px;
     line-height: 22px;
     font-weight: 400;
-    text-align: right; color: white
+    text-align: right; 
+    color: white
 }
 .blocks2{
     display: flex;
@@ -84,10 +85,12 @@ img{
     margin: 20px 0px 20px 0px;
 }
 .f1{
-    width:130px; height: 150px;
+    width:130px; 
+    height: 150px;
 }
 .f0{
-    width:130px; height: 150px;
+    width:130px; 
+    height: 150px;
     margin-left: 25px;
 }
 
@@ -134,8 +137,10 @@ img{
     height: 180px;
 }
 .b12_13{
+    height: 180px;
+    display: flex;
     flex-direction: column;
-    
+    justify-content: space-between;
 }
 .b12{
     background-color: rgb(87, 87, 87);
@@ -147,6 +152,7 @@ img{
     justify-content: space-between;
 }
 .b13{
-    width: 184px;
-    height: 134px;
+    width: 305px;
+    height: 75px;
+
 }
