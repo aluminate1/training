@@ -6,8 +6,8 @@
     width: 980px;
     height: 1205px;
     padding: 0 10px;
-box-sizing: border-box;
-margin:auto;
+    box-sizing: border-box;
+    margin:auto;
 }
 hr{
     width: 959px;
@@ -32,7 +32,8 @@ img{
 }
 .block3{
     background-color: gray;
-    width:536px;height:108px;
+    width:536px;
+    height:108px;
     padding: 10px;
     font-family: Arial;
     font-size: 14px;
@@ -58,12 +59,15 @@ img{
     background-color: gray;
     width:184px;
     height:335px;
-    padding: 10px;
     font-family: Arial;
     font-size: 14px;
     line-height: 22px;
+    font-weight: 400;
+    color: white;
+    text-align: justify;
+}
+.weight{
     font-weight: 700;
-    color: white
 }
 .b7{
     width: 184px;
@@ -154,5 +158,8 @@ img{
 .b13{
     width: 305px;
     height: 75px;
-
+}
+img.b13{
+    width: 305px;
+    height: 75px;
 }
